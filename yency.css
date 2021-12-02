@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to left, #a3e5a3, #ba18);
+    font-family: "Script MT Bold";
+    /*font-family: "Ikaros Sans Regular";*/
+}
+
+select {
+  font-family: "Script MT Bold";
+  /*font-family: "Ikaros Sans Regular";*/
+}
+
+p {
+  font-weight: bold;
+  color: #fce0a2;
+}
+
+div.scrollmenu {
+  background: linear-gradient(to left, #a3e5a3, #ba18);
+	background-color: #333;
+	overflow: auto;
+	white-space: nowrap;
+	text-align: right;
+}
+
+div.scrollmenu a, select, label {
+  background: linear-gradient(to left, #a3e5a3, #ba18);
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover, select:hover {
+  background: linear-gradient(to left, #a3e5a3, #ba18);
+  background-color: #ba18;
+}
+
+div.scrollmenu option {
+  background-color: #ba18;
+}
+
+#caption {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  color: #fce0a2;
+}
