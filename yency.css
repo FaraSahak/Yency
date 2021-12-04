@@ -116,11 +116,12 @@ div.scrollmenu option {
 /*#end_text {
   margin-bottom: 100px;
   text-align: center;
-}
+}*/
 
 #footerlinks {
   margin-left: 5%;
   font-size: 25px;
+  margin-top: 5%;
 }
 
 #footerlinks a {
@@ -131,14 +132,14 @@ div.scrollmenu option {
 #us {
   position: absolute;
   font-size: 25px;
-  margin-left: 40%;
+  margin-left: 41.5%;
   bottom: 7%;
 }
 
 #adr {
   position: absolute;
   font-size: 15px;
-  margin-left: 35%;
+  margin-left: 36.5%;
   bottom: -1.5%;
   line-height: 23px;
 }
@@ -146,14 +147,14 @@ div.scrollmenu option {
 #tel {
   position: absolute;
   font-size: 15px;
-  margin-left: 35%;
+  margin-left: 36.5%;
   bottom: -45px;
 }
 
 #e-mail {
   position: absolute;
   font-size: 15px;
-  margin-left: 35%;
+  margin-left: 36.5%;
   bottom: -70px;
 }
 
@@ -187,13 +188,3 @@ div.scrollmenu option {
   position: absolute;
   bottom: -430%;
 }
-
-#contact_container {
-  position: static;
-  margin-left: 1.5%;
-}
-
-#foolinks {
-  position: static;
-  margin-top: 5%;
-}*/
