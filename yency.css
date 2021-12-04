@@ -15,6 +15,7 @@ body {
   background: linear-gradient(to left, #a3e5a3, #ba18);
   font-family: "Script MT Bold";
   margin: 0px;
+  padding: 0;
 }
 
 .container {
