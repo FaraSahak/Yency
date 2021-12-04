@@ -101,8 +101,8 @@ div.scrollmenu option {
   position: absolute;
   top: 25%;
   left: 50%;
-  transform: translate(-50%, 0);
-  font-size: 2.5em;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
   color: #fce0a2;
 }
 
