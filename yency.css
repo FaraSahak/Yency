@@ -19,12 +19,10 @@ body {
 
 .container {
   flex: 1 0 auto;
-  /*padding: 20px;*/
 }
 
 .footer {
   flex-shrink: 0;
-  /*padding: 20px;*/
 }
 
 footer {
@@ -36,12 +34,10 @@ footer {
 
 .content {
   margin-top: 17%;
-  /*transform: translate(0, -50%);*/
 }
 
 select {
   font-family: "Script MT Bold";
-  /*font-family: "Ikaros Sans Regular";*/
 }
 
 p {
@@ -106,7 +102,7 @@ div.scrollmenu option {
   top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 40px;
+  font-size: 2.5em;
   color: #fce0a2;
 }
 
