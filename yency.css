@@ -122,6 +122,8 @@ div.scrollmenu option {
   margin-left: 5%;
   font-size: 25px;
   margin-top: 5%;
+  display: block;
+  width: 200px;
 }
 
 #footerlinks a {
