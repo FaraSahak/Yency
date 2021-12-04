@@ -123,7 +123,7 @@ div.scrollmenu option {
   font-size: 25px;
   margin-top: 5%;
   display: inline-block;
-  width: 150px;
+  width: 300px;
 }
 
 #footerlinks a {
@@ -134,30 +134,41 @@ div.scrollmenu option {
 #us {
   position: absolute;
   font-size: 25px;
-  margin-left: 26.5%;
+  margin-left: 21.5%;
   margin-top: 5%;
+  display: inline-block;
+  width: 200px;
 }
 
 #adr {
   position: absolute;
   font-size: 15px;
-  margin-left: 21.5%;
+  margin-left: 16.5%;
   margin-top: 8%;
   line-height: 23px;
+  display: inline-block;
+  width: 300px;
+  height: 60px;
 }
 
 #tel {
   position: absolute;
   font-size: 15px;
-  margin-left: 21.5%;
+  margin-left: 16.5%;
   margin-top: 13%;
+  display: inline-block;
+  width: 200px;
+  height: 30px;
 }
 
 #e-mail {
   position: absolute;
   font-size: 15px;
-  margin-left: 21.5%;
+  margin-left: 16.5%;
   margin-top: 15%;
+  display: inline-block;
+  width: 200px;
+  height: 30px;
 }
 
 #mes {
