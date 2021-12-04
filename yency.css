@@ -119,10 +119,10 @@ div.scrollmenu option {
 }*/
 
 #footerlinks {
-  margin-left: 5%;
+  margin-left: 20%;
   font-size: 25px;
   margin-top: 5%;
-  width: 470px;
+  width: 370px;
 }
 
 #footerlinks a {
@@ -130,7 +130,7 @@ div.scrollmenu option {
   text-decoration: none;
 }
 
-#us {
+/*#us {
   position: absolute;
   font-size: 25px;
   margin-left: 4.5%;
@@ -162,11 +162,11 @@ div.scrollmenu option {
   margin-top: 15%;
   display: inline-block;
   width: 505px;
-}
+}*/
 
 #mes {
   position: relative;
-  margin-left: 75%;
+  margin-left: 65%;
   font-size: 25px;
   bottom: 45%;
 }
@@ -203,11 +203,5 @@ div.scrollmenu option {
 
 #cont {
   font-size: 25px;
-  margin-left: 25%;
-}
-
-#footerlinks3 {
-  display: inline-block;
-  /*position: absolute;*/
- /* margin-top: 8%;*/
+  margin-left: 20%;
 }
