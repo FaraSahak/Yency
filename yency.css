@@ -100,8 +100,8 @@ div.scrollmenu option {
 #caption {
   position: absolute;
   top: 25%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  /*left: 50%;
+  transform: translate(-50%, -50%);*/
   font-size: 2.5em;
   color: #fce0a2;
 }
