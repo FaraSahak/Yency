@@ -139,6 +139,7 @@ div.scrollmenu option {
 #adr {
   position: absolute;
   font-size: 15px;
+  margin-left: 36.5%;
   bottom: -1.5%;
   line-height: 23px;
 }
@@ -146,12 +147,14 @@ div.scrollmenu option {
 #tel {
   position: absolute;
   font-size: 15px;
+  margin-left: 36.5%;
   bottom: -45px;
 }
 
 #e-mail {
   position: absolute;
   font-size: 15px;
+  margin-left: 36.5%;
   bottom: -70px;
 }
 
@@ -184,9 +187,4 @@ div.scrollmenu option {
 #fbtn {
   position: absolute;
   bottom: -430%;
-}
-
-#contact_container {
-  position: static;
-  margin-left: 36.5%;
 }
