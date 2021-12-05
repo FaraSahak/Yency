@@ -197,7 +197,7 @@ div.scrollmenu option {
     }
 
     #search {
-      left: 10%;
+      left: 5%;
       transform: translate(0, -50%);
     }
 }
