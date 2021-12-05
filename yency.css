@@ -190,7 +190,7 @@ div.scrollmenu option {
   font-family: Script MT Bold;
 }
 
-@media (min-width: 567px) {
+@media (width: 567px) {
     
     #q {
       width: 280px;
