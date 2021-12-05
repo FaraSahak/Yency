@@ -192,10 +192,6 @@ div.scrollmenu option {
 }
 
 @media (max-width: 540px) {
-    
-    body {
-      width: 50%;
-    }
 
     #q {
       width: 280px;
@@ -235,11 +231,8 @@ div.scrollmenu option {
     div.scrollmenu select {
       font-size: 0.8em;
     }
-}
 
-@media (max-width: 1140px) {
-    
-    
+    @media (max-width: 1140px) {
 
     #q {
       width: 400px;
@@ -279,4 +272,6 @@ div.scrollmenu option {
     div.scrollmenu select {
       font-size: 1em;
     }
+  }
+
 }
