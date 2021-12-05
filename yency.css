@@ -232,7 +232,7 @@ div.scrollmenu option {
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1140px) {
     
     #q {
       width: 280px;
