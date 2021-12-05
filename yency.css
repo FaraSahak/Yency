@@ -41,11 +41,11 @@ select {
   font-family: "Script MT Bold";
 }
 
-p {
+/*p {
   font-weight: bold;
   color: #fce0a2;
   font-size: 2em;
-}
+}*/
 
 div.scrollmenu {
   background: linear-gradient(to left, #a3e5a3, #ba18);
