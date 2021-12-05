@@ -179,7 +179,7 @@ div.scrollmenu option {
 @media (max-width: 567px) {
     
     #q {
-      width: 200px;
+      width: 400px;
     }
 
     #qbutt {
@@ -198,5 +198,6 @@ div.scrollmenu option {
 
     #search {
       left: 10%;
+      transform: translate(0, -50%);
     }
 }
