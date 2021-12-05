@@ -160,50 +160,42 @@ div.scrollmenu option {
     /*width: 720px;*/
 }
 
-@media (min-width: 576px)
+/*@media (min-width: 576px)
 .col-sm-12 {
     flex: 0 0 auto;
     width: 100%;
-}
+}*/
 
 .col-12 {
     flex: 0 0 auto;
     /*width: 305px;*/
     /*margin-left: 150px;*/
-    /*width: 100%;*/
+    width: 100%;
 }
 
 .col-6 {
   flex: 0 0 auto;
     /*width: 150px;*/
     /*margin-left: 150px;*/
-    /*width: 33%;*/
+    width: 33%;
 }
 
-@media (min-width: 576px)
+/*@media (min-width: 576px)
 .col-sm-6 {
   flex: 0 0 auto;
     width: 50%;
-}
+}*/
 
 .col-md-4 {
   flex: 0 0 auto;
     /*width: 235px;*/
     /*margin-left: -145px;*/
-    /*width: 33%;*/
-}
-
-.col-md-5 {
-  flex: 0 0 auto;
-    /*width: 235px;*/
-    /*margin-left: -50px;*/
-    /*width: 33%;*/
+    width: 33%;
 }
 
 /*@media (min-width: 768px)*/
 .container2 {
   width: 100%;
-  /*margin-left: 10%;*/
   margin-left: auto;
   margin-right: auto;
   max-width: 720px;
