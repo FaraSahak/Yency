@@ -35,6 +35,7 @@ html {
 
 .container_ {
   flex: 1 0 auto;
+  width: 100%;
 }
 
 .footer {
@@ -117,7 +118,6 @@ footer .form-control {
 
 .content {
   margin-top: 17%;
-  width: 100%;
 }
 
 select {
@@ -191,10 +191,10 @@ div.scrollmenu option {
   font-family: Script MT Bold;
 }
 
-@media (max-width: 576px) {
+@media (min-width: 576px) {
 
-    .container {
-      min-width: 576px;
+    .container_ {
+      max-width: 540px;
     }
     
     #q {
