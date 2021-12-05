@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  height: 1000px;
+  height: 3000px;
 }
 
 body {
@@ -168,7 +168,7 @@ div.scrollmenu option {
 
 #caption {
   position: absolute;
-  top: 20%;
+  top: 18%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 2.5em;
