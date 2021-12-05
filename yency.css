@@ -232,7 +232,7 @@ div.scrollmenu option {
     }
 }
 
-@media (max-width: 1140px) {
+@media (min-width: 1140px) {
     
     body {
       height: 100%;
