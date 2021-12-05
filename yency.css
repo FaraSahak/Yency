@@ -119,7 +119,6 @@ div.scrollmenu option {
 }*/
 
 #footerlinks {
-  /*margin-left: 40%;*/
   font-size: 25px;
   margin-top: 5%;
 }
@@ -129,7 +128,8 @@ div.scrollmenu option {
   text-decoration: none;
 }
 
-#mes {
+/*#mes {
+  display: inline-block;
   position: relative;
   margin-left: 65%;
   font-size: 25px;
@@ -142,9 +142,9 @@ div.scrollmenu option {
   resize: none;
   background-color: rgba(0, 0, 0, 0.5);
   color: coral;
-}
+}*/
 
-#fbtn {
+/*#fbtn {
   height: 28px;
   width: 80px;
   color: coral;
@@ -158,12 +158,11 @@ div.scrollmenu option {
 #fbtn {
   position: absolute;
   bottom: -430%;
-}
+}*/
 
 #footerlinks2 li{
   line-height: 30px;
   list-style-type: none;
-
 }
 
 #cont {
@@ -171,15 +170,30 @@ div.scrollmenu option {
   margin-left: 20%;
 }
 
+#cont2 {
+  margin-left: 12%;
+}
+
 .row {
-  --bs-gutter-x: 1rem;
-    --bs-gutter-y: 0;
+  /*--bs-gutter-x: 1rem;
+    --bs-gutter-y: 0;*/
     display: flex;
     flex-wrap: wrap;
-    margin-top: calc(var(--bs-gutter-y) * -1);
-    margin-right: calc(var(--bs-gutter-x)/ -2);
-    margin-left: calc(var(--bs-gutter-x)/ -2);
-    width: 720px;
+    /*margin-top: calc(var(--bs-gutter-y) * -1);*/
+    /*margin-right: calc(var(--bs-gutter-x)/ -2);*/
+    /*margin-left: calc(var(--bs-gutter-x)/ -2);*/
+    /*width: 720px;*/
+}
+
+@media (min-width: 576px)
+.col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+.col-12 {
+    flex: 0 0 auto;
+    width: 100%;
 }
 
 .col-6 {
@@ -187,6 +201,7 @@ div.scrollmenu option {
     width: 50%;
 }
 
+@media (min-width: 576px)
 .col-sm-6 {
   flex: 0 0 auto;
     width: 50%;
@@ -201,14 +216,6 @@ div.scrollmenu option {
 .container2 {
   width: 100%;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 10%;
   max-width: 720px;
 }
-
-/*@media (min-width: 576px)*/
-/*.container2 {
-    max-width: 540px;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-}*/
