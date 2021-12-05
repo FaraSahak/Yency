@@ -170,14 +170,14 @@ div.scrollmenu option {
     flex: 0 0 auto;
     /*width: 305px;*/
     /*margin-left: 150px;*/
-    width: 100%;
+    /*width: 100%;*/
 }
 
 .col-6 {
   flex: 0 0 auto;
     /*width: 150px;*/
     /*margin-left: 150px;*/
-    width: 33%;
+    /*width: 33%;*/
 }
 
 @media (min-width: 576px)
@@ -190,7 +190,7 @@ div.scrollmenu option {
   flex: 0 0 auto;
     /*width: 235px;*/
     /*margin-left: -145px;*/
-    width: 33%;
+    /*width: 33%;*/
 }
 
 /*@media (min-width: 768px)*/
