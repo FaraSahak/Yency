@@ -193,9 +193,7 @@ div.scrollmenu option {
 
 @media (max-width: 540px) {
     
-    body {
-      height: 100%;
-    }
+    
 
     #q {
       width: 280px;
@@ -239,9 +237,7 @@ div.scrollmenu option {
 
 @media (max-width: 1140px) {
     
-    body {
-      height: 100%;
-    }
+    
 
     #q {
       width: 400px;
