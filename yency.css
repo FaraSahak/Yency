@@ -105,7 +105,7 @@ select {
   font-family: "Script MT Bold";
 }
 
-p {
+#base_text {
   font-weight: bold;
   color: #fce0a2;
   font-size: 2em;
@@ -172,21 +172,13 @@ div.scrollmenu option {
   font-family: Script MT Bold;
 }
 
-.line {
-  height: 7px;
-  border: none;
-  background: black;
-}
-
-#end_text {
-  margin-bottom: 100px;
-  text-align: center;
-}
-
-
 @media (max-width: 567px) {
     
-    #caption, #q {
-      width: auto;
+    #q {
+      width: 200px;
+    }
+
+    #caption, #base_text {
+      font-size: 1em;
     }
 }
