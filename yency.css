@@ -45,19 +45,26 @@ html {
 }
 
 /* Taller footer on small screens */
-@media (max-width: 576px) {
+/*@media (max-width: 576px) {
+    
+    .footer {
+      height: auto;
+    }
+}*/
+
+@media (max-width: 540px) {
     
     .footer {
       height: auto;
     }
 }
 
-/*@media (max-width: 540px) {
+@media (max-width: 720px) {
     
     .footer {
       height: auto;
     }
-}*/
+}
 
 /* Sticky footer style and color
 -------------------------------------------------- */
@@ -184,6 +191,48 @@ div.scrollmenu option {
 }
 
 @media (max-width: 567px) {
+    
+    #q {
+      width: 280px;
+    }
+
+    #qbutt {
+      height: 24px;
+      width: 65px;
+      font-size: 12px;
+    }
+
+    #base_text {
+      font-size: 0.5em;
+      font-weight: bold;
+      color: #fce0a2;
+    }
+
+    .content {
+      margin-top: 40%;
+    }
+
+    #caption {
+      font-size: 1.5em;
+      left: 9%;
+      transform: translate(0%, -50%);
+    }
+
+    #search {
+      left: 5%;
+      transform: translate(0%, -50%);
+    }
+
+    div.scrollmenu a, label {
+      font-size: 0.8em;
+    }
+
+    div.scrollmenu select {
+      font-size: 0.8em;
+    }
+}
+
+@media (max-width: 720px) {
     
     #q {
       width: 280px;
