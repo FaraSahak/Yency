@@ -26,7 +26,7 @@ body {
 /* Taller footer on small screens */
 @media (max-width: 567em) {
     body {
-      margin-bottom: 700px;
+      margin-bottom: 300px;
     }
     .footer {
       height: 300px;
