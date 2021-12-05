@@ -194,6 +194,10 @@ div.scrollmenu option {
       color: #fce0a2;
     }
 
+    .content {
+      margin-top: 27%;
+    }
+
     #caption {
       font-size: 1.5em;
       left: 9%;
