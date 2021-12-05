@@ -187,7 +187,11 @@ div.scrollmenu option {
       font-size: 8px;
     }
 
-    #caption, #base_text {
+    #base_text {
       font-size: 0.5em;
+    }
+
+    #caption {
+      font-size: 1.5em;
     }
 }
