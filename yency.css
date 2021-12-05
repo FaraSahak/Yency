@@ -119,10 +119,9 @@ div.scrollmenu option {
 }*/
 
 #footerlinks {
-  margin-left: 20%;
+  /*margin-left: 40%;*/
   font-size: 25px;
   margin-top: 5%;
-  width: 370px;
 }
 
 #footerlinks a {
@@ -204,4 +203,9 @@ div.scrollmenu option {
 #cont {
   font-size: 25px;
   margin-left: 20%;
+}
+
+.footerlinksdiv {
+  display: inline-block;
+  margin-left: 10%;
 }
