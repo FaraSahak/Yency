@@ -121,9 +121,6 @@ div.scrollmenu {
 	overflow: auto;
 	white-space: nowrap;
 	text-align: right;
-  width: 82%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 div.scrollmenu a, select, label {
@@ -179,7 +176,7 @@ div.scrollmenu option {
   font-family: Script MT Bold;
 }
 
-@media (max-width: 10000px) {
+@media (max-width: 567px) {
     
     #q {
       width: 280px;
@@ -206,5 +203,13 @@ div.scrollmenu option {
       left: 5%;
       /*transform: translate(0, -300%);*/
       transform: translate(0%, -50%);
+    }
+
+    div.scrollmenu a, label {
+      font-size: 0.8em;
+    }
+
+    div.scrollmenu select {
+      font-size: 0.8em;
     }
 }
