@@ -172,13 +172,13 @@ div.scrollmenu option {
 }
 
 .row {
-  /*--bs-gutter-x: 1rem;
-    --bs-gutter-y: 0;*/
+  --bs-gutter-x: 1rem;
+    --bs-gutter-y: 0;
     display: flex;
     flex-wrap: wrap;
-    /*margin-top: calc(var(--bs-gutter-y) * -1);*/
-    /*margin-right: calc(var(--bs-gutter-x)/ -2);*/
-    /*margin-left: calc(var(--bs-gutter-x)/ -2);*/
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);
 }
 
 .col-6 {
@@ -193,7 +193,7 @@ div.scrollmenu option {
 
 .col-md-4 {
   flex: 0 0 auto;
-    width: 50%;
+    width: 33%;
 }
 
 @media (min-width: 768px)
@@ -204,10 +204,10 @@ div.scrollmenu option {
   max-width: 720px;
 }
 
-/*@media (min-width: 576px)
+@media (min-width: 576px)
 .container2 {
     max-width: 540px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-}*/
+}
