@@ -176,7 +176,7 @@ div.scrollmenu option {
   font-family: Script MT Bold;
 }
 
-@media (max-width: 567px) {
+/*@media (max-width: 567px) {
     
     #q {
       width: 280px;
@@ -201,13 +201,11 @@ div.scrollmenu option {
     #caption {
       font-size: 1.5em;
       left: 9%;
-      /*transform: translate(0%, -200%);*/
       transform: translate(0%, -50%);
     }
 
     #search {
       left: 5%;
-      /*transform: translate(0, -300%);*/
       transform: translate(0%, -50%);
     }
 
@@ -218,4 +216,4 @@ div.scrollmenu option {
     div.scrollmenu select {
       font-size: 0.8em;
     }
-}
+}*/
