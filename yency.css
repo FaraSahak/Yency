@@ -256,12 +256,12 @@ div.scrollmenu option {
 
     #caption {
       font-size: 2.5em;
-      left: 40%;
+      left: 25%;
       transform: translate(0%, -50%);
     }
 
     #search {
-      left: 30%;
+      left: 28%;
       transform: translate(0%, -50%);
     }
 
