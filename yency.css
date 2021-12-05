@@ -183,8 +183,9 @@ div.scrollmenu option {
     }
 
     #qbutt {
+      height: 14px;
       width: 40px;
-      font-size: 4px;
+      font-size: 8px;
     }
 
     #base_text {
