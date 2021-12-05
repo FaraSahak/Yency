@@ -195,11 +195,11 @@ div.scrollmenu option {
     #caption {
       font-size: 1.5em;
       left: 9%;
-      transform: translate(0%, -100%);
+      transform: translate(0%, -200%);
     }
 
     #search {
       left: 5%;
-      transform: translate(0, -100%);
+      transform: translate(0, -200%);
     }
 }
