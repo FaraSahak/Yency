@@ -45,19 +45,19 @@ html {
 }
 
 /* Taller footer on small screens */
-/*@media (max-width: 576px) {
-    
-    .footer {
-      height: auto;
-    }
-}*/
-
-@media (max-width: 540px) {
+@media (max-width: 576px) {
     
     .footer {
       height: auto;
     }
 }
+
+/*@media (max-width: 540px) {
+    
+    .footer {
+      height: auto;
+    }
+}*/
 
 /* Sticky footer style and color
 -------------------------------------------------- */
