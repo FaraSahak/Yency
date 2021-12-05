@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  height: 3000px;
+  height: 1000px;
 }
 
 body {
@@ -211,5 +211,11 @@ div.scrollmenu option {
 
     div.scrollmenu select {
       font-size: 0.8em;
+    }
+
+    #base_text {
+    font-weight: bold;
+    color: #fce0a2;
+    font-size: 1em;
     }
 }
