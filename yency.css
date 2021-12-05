@@ -191,48 +191,7 @@ div.scrollmenu option {
   font-family: Script MT Bold;
 }
 
-@media (max-width: 540px) {
-
-    #q {
-      width: 280px;
-    }
-
-    #qbutt {
-      height: 24px;
-      width: 65px;
-      font-size: 12px;
-    }
-
-    #base_text {
-      font-size: 0.5em;
-      font-weight: bold;
-      color: #fce0a2;
-    }
-
-    .content {
-      margin-top: 40%;
-    }
-
-    #caption {
-      font-size: 1.5em;
-      left: 9%;
-      transform: translate(0%, -50%);
-    }
-
-    #search {
-      left: 5%;
-      transform: translate(0%, -50%);
-    }
-
-    div.scrollmenu a, label {
-      font-size: 0.8em;
-    }
-
-    div.scrollmenu select {
-      font-size: 0.8em;
-    }
-
-    @media (max-width: 1140px) {
+@media (max-width: 1140px) {
 
     #q {
       width: 400px;
@@ -272,6 +231,46 @@ div.scrollmenu option {
     div.scrollmenu select {
       font-size: 1em;
     }
-  }
 
+    @media (max-width: 540px) {
+
+    #q {
+      width: 280px;
+    }
+
+    #qbutt {
+      height: 24px;
+      width: 65px;
+      font-size: 12px;
+    }
+
+    #base_text {
+      font-size: 0.5em;
+      font-weight: bold;
+      color: #fce0a2;
+    }
+
+    .content {
+      margin-top: 40%;
+    }
+
+    #caption {
+      font-size: 1.5em;
+      left: 9%;
+      transform: translate(0%, -50%);
+    }
+
+    #search {
+      left: 5%;
+      transform: translate(0%, -50%);
+    }
+
+    div.scrollmenu a, label {
+      font-size: 0.8em;
+    }
+
+    div.scrollmenu select {
+      font-size: 0.8em;
+    }
+  }
 }
