@@ -59,7 +59,7 @@ html {
     }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 1140px) {
     
     .footer {
       height: auto;
@@ -190,7 +190,7 @@ div.scrollmenu option {
   font-family: Script MT Bold;
 }
 
-@media (max-width: 567px) {
+@media (max-width: 540px) {
     
     #q {
       width: 280px;
