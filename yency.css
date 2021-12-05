@@ -149,6 +149,7 @@ div.scrollmenu option {
   width: 400px;
   color: coral;
   font-weight: bold;
+  display: inline-block;
 }
 
 #qbutt {
@@ -160,6 +161,7 @@ div.scrollmenu option {
   border-radius: 3px;
   font-family: Script MT Bold;
   font-size: 16px;
+  display: inline-block;
 }
 
 #caption {
