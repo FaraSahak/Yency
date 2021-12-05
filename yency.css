@@ -29,7 +29,7 @@ html {
   margin-bottom: 275px;
 }*/
 
-.container {
+.container_ {
   flex: 1 0 auto;
 }
 
@@ -169,6 +169,7 @@ div.scrollmenu option {
   transform: translate(-50%, -50%);
   font-size: 2.5em;
   color: #fce0a2;
+  font-family: Script MT Bold;
 }
 
 .line {
@@ -180,4 +181,12 @@ div.scrollmenu option {
 #end_text {
   margin-bottom: 100px;
   text-align: center;
+}
+
+
+@media (max-width: 567px) {
+    
+    #caption, #q {
+      width: auto;
+    }
 }
