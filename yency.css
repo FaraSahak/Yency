@@ -194,7 +194,7 @@ div.scrollmenu option {
 @media (max-width: 576px) {
 
     .container {
-      min-width: 540px;
+      min-width: 576px;
     }
     
     #q {
