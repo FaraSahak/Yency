@@ -234,6 +234,10 @@ div.scrollmenu option {
 
 @media (max-width: 1140px) {
     
+    body {
+      height: 100%;
+    }
+
     #q {
       width: 400px;
     }
@@ -245,13 +249,13 @@ div.scrollmenu option {
     }
 
     #base_text {
-      font-size: 0.5em;
+      font-size: 2em;
       font-weight: bold;
       color: #fce0a2;
     }
 
     .content {
-      margin-top: 40%;
+      margin-top: 50%;
     }
 
     #caption {
@@ -266,10 +270,10 @@ div.scrollmenu option {
     }
 
     div.scrollmenu a, label {
-      font-size: 0.8em;
+      font-size: 1em;
     }
 
     div.scrollmenu select {
-      font-size: 0.8em;
+      font-size: 1em;
     }
 }
