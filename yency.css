@@ -235,7 +235,7 @@ div.scrollmenu option {
 @media (max-width: 1140px) {
     
     #q {
-      width: 280px;
+      width: 400px;
     }
 
     #qbutt {
@@ -255,13 +255,13 @@ div.scrollmenu option {
     }
 
     #caption {
-      font-size: 1.5em;
-      left: 50%;
+      font-size: 2.5em;
+      left: 40%;
       transform: translate(0%, -50%);
     }
 
     #search {
-      left: 25%;
+      left: 30%;
       transform: translate(0%, -50%);
     }
 
