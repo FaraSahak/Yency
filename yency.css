@@ -206,6 +206,32 @@ div.scrollmenu option {
 }
 
 .footerlinksdiv {
+  position: absolute;
   display: inline-block;
-  margin-left: 10%;
+  left: 10%;
+}
+
+.row {
+  --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);
+}
+
+.col-6 {
+  flex: 0 0 auto;
+    width: 50%;
+}
+
+.col-sm-6 {
+  flex: 0 0 auto;
+    width: 50%;
+}
+
+.col-md-4 {
+  flex: 0 0 auto;
+    width: 33.3333333333%;
 }
