@@ -24,10 +24,10 @@ html {
   position: relative;
   min-height: 100%;
 }
-body {
-  /* Margin bottom by footer height */
+/*body {
+  
   margin-bottom: 275px;
-}
+}*/
 
 .container {
   flex: 1 0 auto;
@@ -35,15 +35,16 @@ body {
 
 .footer {
   flex-shrink: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
 }
 
 /* Taller footer on small screens */
 @media (max-width: 567px) {
-    body {
-      margin-bottom: 500px;
-    }
+    
     .footer {
-      height: 500px;
+      height: auto;
     }
 }
 
