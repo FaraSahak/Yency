@@ -17,7 +17,7 @@ body {
 
 body {
   background: linear-gradient(to left, #a3e5a3, #ba18);
-  font-family: 'Script MT Bold';
+  font-family: "Script MT Bold";
   margin: 0px;
   padding: 0;
 }
@@ -109,7 +109,7 @@ footer .form-control {
 }
 
 .fa-tiger:before {
-  content: url("pictures/logo/tiger20.png");
+  content: url("pictures/logo/tigerw20_2.png");
   background-color: transparent;
 }
 
