@@ -113,6 +113,11 @@ footer .form-control {
   background-color: transparent;
 }
 
+.fa-tiger2:before {
+  content: url("pictures/logo/tigerw32_2.png");
+  background-color: transparent;
+}
+
 #cont {
   margin-left: 15%;
 }
