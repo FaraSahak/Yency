@@ -4,9 +4,9 @@
 
 @font-face {
     font-family: 'script_mt_boldregular';
-    src: url('./scriptmtbold-webfont.woff2') format('woff2'),
-         url('./scriptmtbold-webfont.woff') format('woff'),
-         url('./scriptmtbold.ttf') format('truetype');
+    src: url(https://farasahak.github.io/Yency/css/fonts/scriptmtbold-webfont.woff2) format('woff2'),
+         url('https://farasahak.github.io/Yency/css/fonts/scriptmtbold-webfont.woff) format('woff'),
+         url(https://farasahak.github.io/Yency/css/fonts/scriptmtbold.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 
