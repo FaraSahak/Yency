@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Ikaros-Regular';
+	src: url('./Ikaros-Regular.eot');
+	src: local('Ikaros-Regular'), url('./Ikaros-Regular.woff') format('woff'), url('./Ikaros-Regular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_12234">Text with this font applied</p> */
+.fontsforweb_fontid_12234 {
+	font-family: 'Ikaros-Regular' !important;
+}
