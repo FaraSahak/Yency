@@ -135,6 +135,50 @@ select {
   color: #fce0a2;
   font-size: 2em;
   font-family: "Script MT Bold";
+  text-align: center;
+}
+
+.news {
+  background-color: gray;
+  width: 750px;
+  height: 170px;
+  margin-left: 155%;
+  margin-bottom: 10%;
+}
+
+.news p {
+  font-size: 2em;
+  font-weight: bold;
+  color: #fce0a2;
+  text-align: right;
+  font-family: "Script MT Bold";
+}
+
+#news_1 {
+  background-image: url(pictures/news/list.jpg);
+}
+
+#news_2 {
+  background-image: url(pictures/news/hors.jpg);
+}
+
+#news_3 {
+  background-image: url(pictures/news/leaf.jpg);
+}
+
+#news_4 {
+  background-image: url(pictures/news/giraffe.jpg);
+}
+
+#news_5 {
+  background-image: url(pictures/news/white-sheep.jpg);
+}
+
+#side_menu {
+  background-color: gray;
+  height: 100%;
+  width: 200px;
+  margin-top: 150px;
 }
 
 div.scrollmenu {
@@ -214,6 +258,7 @@ div.scrollmenu option {
       font-size: 2em;
       font-weight: bold;
       color: #fce0a2;
+      text-align: center;
     }
 
     .content {
@@ -255,6 +300,7 @@ div.scrollmenu option {
       font-size: 0.5em;
       font-weight: bold;
       color: #fce0a2;
+      text-align: center;
     }
 
     .content {
